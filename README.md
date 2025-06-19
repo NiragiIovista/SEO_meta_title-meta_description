@@ -61,7 +61,9 @@ updated_meta_title and updated_meta_description
 
 
 4. Add your API Key
-        🔑 API Access – Together.ai (Free to Use)
+
+🔑 API Access – Together.ai (Free to Use)
+
 This project uses the Together.ai API to generate and rewrite SEO meta titles and descriptions.
 
 ✅ Free API access available — no payment required for light usage.
@@ -71,6 +73,7 @@ This project uses the Together.ai API to generate and rewrite SEO meta titles an
 🔐 You'll need an API key to use the scripts.
 
 How to Get Your Free Together.ai API Key
+
 Go to https://www.together.ai
 
 Sign up or log in.
@@ -78,5 +81,6 @@ Sign up or log in.
 Navigate to your dashboard and copy your API key.
 
 Paste it into both scripts where prompted:
-    TOGETHER_API_KEY = 'your_actual_api_key_here'
+
+TOGETHER_API_KEY = 'your_actual_api_key_here'
 
