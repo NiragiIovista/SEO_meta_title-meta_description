@@ -6,14 +6,18 @@ This project consists of two Python scripts designed to generate and rewrite SEO
 📊 Works with CSV files for batch processing.
 
 🧠 Script 1: generate_meta.py
+
 Purpose:
 Generates SEO-friendly meta titles and descriptions using LLMs.
+
 Input:
 keywords.csv
+
 Output:
 seo_output.csv with added meta_title and meta_description columns.
 
 ✨ Script 2: rewrite_meta.py
+
 Purpose:
 Refines and rewrites the generated meta titles/descriptions to sound more human, engaging, and unique — without losing SEO value.
 Input:
