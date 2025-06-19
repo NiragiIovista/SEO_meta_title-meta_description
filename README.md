@@ -37,10 +37,10 @@ updated_meta_title and updated_meta_description
 
 1. Clone the repository
 
-  bash
+    bash
 
-  git clone https://github.com/your-username/seo-meta-generator.git
-  cd seo-meta-generator
+    git clone https://github.com/your-username/seo-meta-generator.git
+    cd seo-meta-generator
 
 2. Install dependencies
 
@@ -49,18 +49,18 @@ updated_meta_title and updated_meta_description
 
 3. Run NLTK Downloads (automatically handled, but can be manually triggered)
 
-  import nltk
+    import nltk
 
-  nltk.download('punkt')
+    nltk.download('punkt')
 
-  nltk.download('wordnet')
+    nltk.download('wordnet')
 
-  nltk.download('averaged_perceptron_tagger')
+    nltk.download('averaged_perceptron_tagger')
 
-  nltk.download('omw-1.4')
+    nltk.download('omw-1.4')
 
 
 4. Add your API Key
 
-  TOGETHER_API_KEY = 'your_actual_api_key_here'
+    TOGETHER_API_KEY = 'your_actual_api_key_here'
 
