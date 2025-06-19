@@ -24,7 +24,7 @@ except Exception as e:
     print(f"Unexpected error during NLTK data check/download: {e}")
 
 # === CONFIGURATION ===
-TOGETHER_API_KEY = 'd6d20ea306517e42efc74d921fc9bd88dcc751ffa9c16e8c9d402eda2c3f4288'
+TOGETHER_API_KEY = 'your_actual_api_key_here'
 MODEL = 'meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo'
 INPUT_CSV = 'keywords.csv'
 OUTPUT_CSV = 'seo_output.csv'
